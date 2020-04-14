@@ -12,6 +12,6 @@ Hack Cameras
 
 * pip2 install requests
 
-* cd redbacked-hackcameras
+* cd redbacked-hackcamreras
 
 * python2 redbacked-hackcamreras.py
