@@ -14,4 +14,4 @@ Hack Cameras
 
 * cd redbacked-hackcamreras
 
-* python2 redbacked-hackcamreras.py
+* python2 redbacked-hackcameras.py
