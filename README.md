@@ -8,10 +8,10 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/ReD-BackeD/redbacked-hackcameras
+* git clone https://github.com/ReD-BackeD/ReDBackeD-HackCameras
 
 * pip2 install requests
 
-* cd redbacked-hackcameras
+* chmod +x ReDBackeD-HackCameras.py
 
-* python2 redbacked-hackcameras.py
+* python2 ReDBackeD-HackCameras.py
