@@ -12,6 +12,6 @@ Hack Cameras
 
 * pip2 install requests
 
-* chmod +x ReDBackeD-HackCameras.py
+* cd ReDBackeD-HackCameras.py
 
 * python2 ReDBackeD-HackCameras.py
